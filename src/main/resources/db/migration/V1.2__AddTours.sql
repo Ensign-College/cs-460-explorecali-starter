@@ -396,3 +396,171 @@ insert into tour  (tour_package_code, title, description, blurb, bullets, diffic
     'Napa/Sonoma Counties',
     'Winery, hiking, relaxing, cooking, Napa Valley'
   );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'BC',
+    'Pacific Crest Sampler',
+    'Experience the most accessible sections of the Pacific Crest Trail with expert guides and comfortable base camps.',
+    'Sample iconic stretches of the Pacific Crest Trail without committing to the full thru-hike on this long weekend adventure.',
+    'Guided day hikes on three distinct trail segments, Cozy canvas base camp tents with real beds, Campfire cooking classes, Sunset photography workshop',
+   'Medium',
+    '4 days',
+    '720',
+    'Northern California',
+    'Hiking, Backpacking, Pacific Crest Trail'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'BC',
+    'Redwood Canopy Overnighter',
+    'Sleep among the towering redwoods on an overnight backpacking trip that includes a guided canopy walk.',
+    'Spend two days immersed in the ancient forests of Humboldt Redwoods State Park and learn about old growth ecology.',
+    'Backpacking with ultralight gear provided, Ranger-led canopy walk, Nighttime astronomy session, Gourmet backcountry meals',
+   'Medium',
+    '2 days',
+    '540',
+    'Northern California',
+    'Hiking, Redwood Forest, Camping'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'CC',
+    'Seaside Mindfulness Retreat',
+    'Slow down with guided meditation, restorative yoga, and nourishing cuisine overlooking the Mendocino Coast.',
+    'A restorative three-day escape featuring daily mindfulness workshops and locally sourced spa cuisine.',
+    'Oceanfront yoga dome, Daily guided meditations, Chef-prepared plant-based meals, Sound bath under the stars',
+   'Easy',
+    '3 days',
+    '980',
+    'Northern California',
+    'Spa, Meditation, Wellness, Ocean'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'CC',
+    'Napa Wellness Week',
+    'Balance vineyard strolls with restorative treatments and nutrition workshops in the Napa Valley.',
+    'A seven-day stay at a boutique wellness resort featuring curated spa services and wine country excursions.',
+    'Private suite with soaking tub, Personalized wellness coaching, Vineyard walks with picnic lunches, Mineral spring access',
+   'Easy',
+    '7 days',
+    '2100',
+    'Napa/Sonoma Counties',
+    'Spa, Wellness, Wine Country'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'CH',
+    'Sierra Soak & Stars',
+    'Alternate between alpine hikes and secluded hot spring soaks near Mammoth Lakes.',
+    'Explore hidden hot springs by day and enjoy dark sky stargazing each night on this adventurous getaway.',
+    'Guided hikes to alpine lakes, Private hot spring reservations, Astrophotography tips from local expert, Campfire dessert bar',
+   'Medium',
+    '3 days',
+    '690',
+    'Northern California',
+    'Hot springs, Hiking, Stargazing'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'CY',
+    'Wine Country Gravel Ride',
+    'Ride rolling gravel roads through Sonoma vineyards with full support and chef-crafted meals.',
+    'Spend a long weekend pedaling curated gravel routes and refueling with farm-to-table cuisine.',
+    'Mechanic and support van on route, GPS route library, Barrel-room dinner, Vineyard-side glamping tents',
+   'Difficult',
+    '3 days',
+    '880',
+    'Napa/Sonoma Counties',
+    'Cycling, Gravel, Wine Country'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'CY',
+    'San Diego Beach Cruiser Weekend',
+    'Swap traffic for ocean breezes on this relaxed cycling escape along San Diego''s boardwalks.',
+    'Perfect for casual riders, this tour combines coastal bike paths, craft coffee stops, and sunset bonfires.',
+    'Beach cruiser rentals included, Guided coastal rides, Latte art workshop, Sunset bonfire with s''mores',
+   'Easy',
+    '2 days',
+    '260',
+    'Southern California',
+    'Cycling, Beach, Relaxed Pace'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'DS',
+    'Anza-Borrego Desert Bloom',
+    'Witness the seasonal wildflower bloom with naturalists leading hikes through slot canyons and badlands.',
+    'This springtime tour captures the fleeting color of the desert with gentle hikes and sky-filled nights.',
+    'Naturalist-led wildflower walks, Slot canyon photography session, Sunset camp chairs provided, Optional off-road jeep tour',
+   'Easy',
+    '2 days',
+    '320',
+    'Southern California',
+    'Desert, Wildflowers, Hiking'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'KC',
+    'STEM Explorers Bay Area',
+    'Hands-on science adventures designed for curious kids across the Bay Area''s innovation hubs.',
+    'Families rotate through interactive labs, maker spaces, and museum experiences tailored to young scientists.',
+    'Private workshop at a local maker space, Access to Exploratorium exhibits, Guided tour of NASA Ames visitor center, Family engineering challenge night',
+   'Easy',
+    '3 days',
+    '450',
+    'Northern California',
+    'Family, Science, Museums'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'NW',
+    'Monarch Migration Walk',
+    'Track the path of migrating monarch butterflies along the Central Coast with conservation experts.',
+    'A nature-forward escape combining coastal hikes, citizen science, and sunset roost viewings.',
+    'Guided walks in monarch groves, Citizen science tagging session, Naturalist lectures, Coastal picnic with local produce',
+   'Easy',
+    '2 days',
+    '280',
+    'Central Coast',
+    'Wildlife, Conservation, Hiking'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'SC',
+    'Backcountry Snowshoe Escape',
+    'Trade lift lines for untouched snowfields on this guided snowshoeing and winter camping adventure.',
+    'Learn cold-weather skills and explore quiet meadows in Lassen Volcanic National Park with expert guides.',
+    'Snowshoe and winter gear rentals, Igloo building workshop, Fireside storytelling, Hot cocoa and camp breakfast provided',
+   'Medium',
+    '3 days',
+    '520',
+    'Northern California',
+    'Snowshoeing, Winter Camping, Adventure'
+  );
+insert into tour  (tour_package_code, title, description, blurb, bullets, difficulty, duration, price, region, keywords) values
+
+  (
+    'TC',
+    'Craft Breweries Coastline',
+    'Taste small-batch beers while traveling the Central Coast with a cicerone as your guide.',
+    'A flavorful road trip featuring exclusive brewery tours, food pairings, and coastal walks.',
+    'Transportation between breweries, Private tastings with brewers, Farm-to-table pairings, Sunset walk on Pismo Beach',
+   'Easy',
+    '3 days',
+    '610',
+    'Central Coast',
+    'Tasting, Beer, Culinary Travel'
+  );
